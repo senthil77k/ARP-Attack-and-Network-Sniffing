@@ -30,7 +30,8 @@ In windows 7 give the command arp -a
 From kali linux issue the command :
 sudo arpspoof -i eth0 -t <target system> <gateway>
 ## OUTPUT:
-![Screenshot 2025-03-21 135758](https://github.com/user-attachments/assets/6dfa1da5-108f-467f-93a6-f36404b34235)
+![Screenshot 2025-04-07 095823](https://github.com/user-attachments/assets/8792d6a6-83f5-49d5-9916-998f3abe4e5c)
+
 
 
  dsniff:
@@ -50,7 +51,8 @@ In Metasploit open the ftp console as below. Also you can try other ftp websites
 In Kali issue the following commands:
 sudo dsnifff
 ## OUTPUT:
-![Screenshot 2025-04-06 191411](https://github.com/user-attachments/assets/1bd0499a-16e7-4a8d-94a1-06269ac6849d)
+![image](https://github.com/user-attachments/assets/847ad8f6-4761-4b15-996c-8839298ee326)
+
 
 
 
